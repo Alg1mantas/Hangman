@@ -1,6 +1,8 @@
 ### Hangman game
 
 ![My Image](https://media3.giphy.com/media/3UbljuWB8dfsSXZQeg/giphy.gif?cid=790b7611be10922e127dd468607f9622af1a38ef658c9995&rid=giphy.gif&ct=g)
+
+
 There are suppose to be really nice readme , but I will fix it tommorrow
 
 Hangman is a guessing game for single player. One player thinks of a word, phrase or sentence and the other(s) tries to guess it by suggesting letters within a certain number of guesses. Originally a Paper-and-pencil game, there are now electronic versions
